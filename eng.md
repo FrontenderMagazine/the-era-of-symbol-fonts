@@ -100,14 +100,14 @@ but beyond that they could be ligatures. So your HTML markup might look like:
 
 But the resulting rendered ligatures might look like:  
 
-![][8]
+![][100]
 
 
 [Symbolset][3] has been experimenting with ligatures and symbol fonts for a
-[while, and now sells packs of symbol fonts with commonly used icons. It also
-[has great ligature support, and a demo where you can simply type keywords and
-[watch them snap to symbols immediately. Don’t be surprised if this makes your
-[mind race with ideas.
+while, and now sells packs of symbol fonts with commonly used icons. It also
+has great ligature support, and a demo where you can simply type keywords and
+watch them snap to symbols immediately. Don’t be surprised if this makes your
+mind race with ideas.
 
 Using ligatures as glyph substitutes has practical applications. For example,
 the BBC News website formerly featured [a ticking clock][4] in the corner of
@@ -123,7 +123,7 @@ Raphaeljs, which can create SVG or VML objects that would be nice and
 vectorized, but since they are loaded and created in JavaScript, they would be
 invisible to search engine spiders or other non-JavaScript browsers.
 
-![][9]
+![][101]
 
 Using a symbol font instead would give you the best of both worlds:
 accessibility and vectors. Typing 12:00 would call up a ligature, which would
@@ -207,13 +207,13 @@ techniques to make them.
 
 
 
-[0]: https://github.com/blog/1106-say-hello-to-octicons ""
-[1]: http://en.wikipedia.org/wiki/Private_Use_(Unicode) ""
-[2]: http://symbolset.com/ ""
-[3]: http://www.bbc.co.uk/blogs/webdeveloper/2010/04/good-news-the-clock-has.shtml ""
-[4]: http://timepiece.inostudio.de/ ""
-[5]: http://icomoon.io/ ""
-[6]: http://fontforge.org/ ""
-[7]: http://en.wikipedia.org/wiki/Apple_Color_Emoji ""
-[8]: ./img/glyphs.png "Glyphs"
-[9]: ./img/clock.png "Clock"
+[0]: https://github.com/blog/1106-say-hello-to-octicons "Say Hello to Octicons"
+[1]: http://en.wikipedia.org/wiki/Private_Use_(Unicode) "Private Use"
+[2]: http://symbolset.com/ "Symbolset"
+[3]: http://www.bbc.co.uk/blogs/webdeveloper/2010/04/good-news-the-clock-has.shtml "BBC Homepage: Clock"
+[4]: http://timepiece.inostudio.de/ "Timepiece Rounded"
+[5]: http://icomoon.io/ "IcoMoon"
+[6]: http://fontforge.org/ "FontForge"
+[7]: http://en.wikipedia.org/wiki/Apple_Color_Emoji "Apple Color Emoji"
+[100]: ./img/glyphs.png "Glyphs"
+[101]: ./img/clock.png "Clock"
