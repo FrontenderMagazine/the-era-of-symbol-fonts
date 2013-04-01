@@ -183,8 +183,6 @@ You can work some magic with background colors and font gradients to emulate a
 two-color logo, but if your icons are multicolored, then the current symbol
 font setup won’t work for you.
 
-
-
 To remedy this, Apple is proposing multicolor fonts, which would let you
 create and embed pure vector graphics into any web page. Its first foray into
 this field is the [Apple Color Emoji][8] font, which you might already have if
