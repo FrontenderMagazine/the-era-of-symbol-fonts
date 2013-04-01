@@ -48,7 +48,7 @@ When it comes to accessibility, symbol fonts are in the conflicted situation
 of working poorly as images, yet quite well as text.
 
 Many of the early symbol font services mapped the graphic to a letter in the
-ASCII range. Typing a “w” would produce a picture of a globe, typing an “m,”
+ASCII range. Typing a “w” would produce a picture of a globe, typing an “m” —
 an envelope. This made it easy to see the character-to-symbol conversion
 simply by typing. Problems would occur when the font embedding failed, ending
 up with strange letters in random places that didn’t make sense. For instance,
@@ -98,7 +98,7 @@ but beyond that they could be ligatures. So your HTML markup might look like:
         <li>Cart</li>
     </ul>
 
-But the resulting rendered ligatures might look like:  
+But the resulting rendered ligatures might look like:
 
 ![][100]
 
