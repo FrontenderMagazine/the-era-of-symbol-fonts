@@ -210,14 +210,14 @@ VML-объекты. Они будут векторными, но из-за то�
 
 
 
-[0]: https://github.com/blog/1106-say-hello-to-octicons "Say Hello to Octicons"
-[1]: http://en.wikipedia.org/wiki/Private_Use_(Unicode) "Private Use"
-[2]: http://symbolset.com/ "Symbolset"
-[3]: http://www.bbc.co.uk/blogs/webdeveloper/2010/04/good-news-the-clock-has.shtml "BBC Homepage: Clock"
-[4]: http://timepiece.inostudio.de/ "Timepiece Rounded"
-[5]: http://icomoon.io/ "IcoMoon"
-[6]: http://fontforge.org/ "FontForge"
-[7]: http://en.wikipedia.org/wiki/Apple_Color_Emoji "Apple Color Emoji"
+[1]: https://github.com/blog/1106-say-hello-to-octicons "Say Hello to Octicons"
+[2]: http://en.wikipedia.org/wiki/Private_Use_(Unicode) "Private Use"
+[3]: http://symbolset.com/ "Symbolset"
+[4]: http://www.bbc.co.uk/blogs/webdeveloper/2010/04/good-news-the-clock-has.shtml "BBC Homepage: Clock"
+[5]: http://timepiece.inostudio.de/ "Timepiece Rounded"
+[6]: http://icomoon.io/ "IcoMoon"
+[7]: http://fontforge.org/ "FontForge"
+[8]: http://en.wikipedia.org/wiki/Apple_Color_Emoji "Apple Color Emoji"
 
 [Преобразование текста меню в иконки]: ./img/glyphs.png "Преобразование текста меню в иконки"
 [Часы]: ./img/clock.png "Часы"
